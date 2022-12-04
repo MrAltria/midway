@@ -24,7 +24,7 @@
 clc; clear; close all;
 
 %% Set path and load necessary files
-path_dataset = 'path_to_dataset';
+path_dataset = 'path_to_dataset';%remember path to 0022seq！！！！
 path_toolbox = 'path_to_ycb_video_toolbox';
 path_pose = 'cosypose\0022\';
 addpath(path_toolbox);
